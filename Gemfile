@@ -34,7 +34,7 @@ gem 'sqlite3'
 # REFINERY CMS ================================================================
 # Anything you put in here will be overridden when the app gets updated.
 
-gem 'refinerycms',              '= 0.9.9.12'
+gem 'refinerycms',              '= 0.9.9.13'
 
 group :development, :test do
   # gem 'refinerycms-testing',    '~> 0.9.9.10'
